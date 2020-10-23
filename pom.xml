@@ -130,7 +130,7 @@
     <required.maven.version>3.5.4</required.maven.version>
     <jackson.version>2.11.2</jackson.version>
 	<amazon-sdk.version>1.11.524</amazon-sdk.version>
-    <guava.version>29.0-jre</guava.version>
+    <guava.version>30.0-android</guava.version>
     <awaitility.version>4.0.3</awaitility.version>
     <log4j.version>2.13.3</log4j.version>
     <slf4j.version>1.7.30</slf4j.version>
